@@ -11,7 +11,8 @@ BuildRequires: libxfont-devel >= 1.0.0
 BuildRequires: x11-util-macros >= 1.0.1
 
 %description
-Bdftopcf converts X fonts from Bitmap Distribution Format to Portable Compiled Format.
+Bdftopcf converts X fonts from Bitmap Distribution Format
+to Portable Compiled Format.
 
 %prep
 %setup -q -n %{name}-%{version}
