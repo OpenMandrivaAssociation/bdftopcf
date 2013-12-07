@@ -1,7 +1,7 @@
 Summary:	Convert X font from Bitmap Distribution Format to Portable Compiled Format
 Name:		bdftopcf
 Version:	1.0.4
-Release:	4
+Release:	5
 Group:		Development/X11
 License:	MIT
 Url:		http://xorg.freedesktop.org/
